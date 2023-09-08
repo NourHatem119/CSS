@@ -2,7 +2,9 @@ html {
     font-size: 22px;
 }
 
-body {}
+body {
+    font-size: 22px;
+}
 
 main {
     font-family: monospace;
